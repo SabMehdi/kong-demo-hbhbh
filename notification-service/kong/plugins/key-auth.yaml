@@ -1,0 +1,5 @@
+name: key-auth
+service: notification-service
+config:
+  key_names:
+  - apikey
